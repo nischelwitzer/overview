@@ -7,7 +7,7 @@
 
 ## Mixed Reality
 
-|  [<img src="./pics/xr_development.png" width="350">](../../../MixedReality_DevUnity) [MR/XR Development](https://github.com/nischelwitzer/MixedReality_DevUnity) |  [<img src="./pics/code_white.png" width="350">](../../..) [home](../../..) |  [<img src="./pics/code_white.png" width="350">](../../..) [home](../../..) |
+|  [<img src="./pics/xr_development.png" width="300">](../../../MixedReality_DevUnity) [MR/XR Development](https://github.com/nischelwitzer/MixedReality_DevUnity) |  [<img src="./pics/code_white.png" width="300">](../../..) [home](../../..) |  [<img src="./pics/code_white.png" width="300">](../../..) [home](../../..) |
 |:---:|:---:|:---:|
 
 ## Open ComputerVision
