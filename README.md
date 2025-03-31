@@ -8,29 +8,29 @@
 ## Mixed Reality
 
 |  [![XR Development](./pics/xr_development.png)](../../../MixedReality_DevUnity) [MR/XR Development](https://github.com/nischelwitzer/MixedReality_DevUnity) |  [![home](./pics/code_white.png)](../../..) [home](../../..) |  [![home](./pics/code_white.png)](../../..) [home](../../..) |
-|:---:| :---:| :---:|
+|:---:|:---:|:---:|
 
 ## Open ComputerVision
 
 | [![PoseEstimation](./pics/poseEstimation.png)](https://github.com/nischelwitzer/OCV-BodyPose-Tools) [OpenCV PoseEstimation](../../../OCV-BodyPose-Tools) | [![FaceDetection BoundingBox](./pics/faceDetection.png)](../../../OCV-face68-FaceMask) [BoundingBox](../../../OCV-face68-2DOF-Rotation) | [![FaceDetection BoundingBox](./pics/faceDetection.png)](../../../OCV-face68-2DOF-Rotation) [Face Rotation](../../../OCV-face68-2DOF-Rotation) |
-|:---:| :---:| :---:|
+|:---:|:---:|:---:|
 | [![FaceDetection Mask](./pics/faceDetection.png)](../../../OCV-face68-FaceMask) [FaceDetection Mask](../../../OCV-face68-FaceMask) | -  | - |
 
 ## IOT and Electronics
 
 | [![IOT Development](./pics/iot_master.png)](../../../IOT-Master) [IOT Development](https://github.com/nischelwitzer/IOT-Master) | [![NeoPixel Multiboard](./pics/code.png)](../../../Grove-NeoPixel-Multiboard) [NeoPixel Multiboard](../../../Grove-NeoPixel-Multiboard) | [![MQTT Unity](./pics/mqtt_unity.png)](../../../MQTT2Unity) [MQTT Unity](../../../MQTT2Unity)  |
-|:---:| :---:| :---:|
+|:---:|:---:|:---:|
 
 ## Unity Goodies
 
 |  [![DoTween](./pics/dotween.png)](../../../DoTweenShow) [DOTween Animation](../../../DoTweenShow) |  [![Mean Median](./pics/mean_median.png)](../../../Calc_MeanMedian) [Mean Median](../../../Calc_MeanMedian) | [![Clock Button](./pics/code.png)](../../../ClockButton) [Clock Button](../../../ClockButton) |
-|  [![C# Shot](./pics/code.png)](../../../Cannon_MoveShot) [C# Shot](../../../Cannon_MoveShot ) | [![C# Billboards](./pics/code.png)](../../../Billboard_Modes) [C# Billboards](../../../Billboard_Modes) |  [![C# ALotOf Objecs](./pics/code.png)](../../../MultiObjects_XYZ) [C# ALotOf Objecs](../../../MultiObjects_XYZ) |  - | - |
+|  [![C# Shot](./pics/code.png)](../../../Cannon_MoveShot) [C# Shot](../../../Cannon_MoveShot ) | [![C# Billboards](./pics/code.png)](../../../Billboard_Modes) [C# Billboards](../../../Billboard_Modes) |  [![C# ALotOf Objecs](./pics/code.png)](../../../MultiObjects_XYZ) [C# ALotOf Objecs](../../../MultiObjects_XYZ) | [![home](./pics/code_white.png)](../../..) [home](../../..)  | [![home](./pics/code_white.png)](../../..) [home](../../..)  |
 |:---:| :---:| :---:|
 
 ## some more 
 
 | [![HTML](./pics/code.png)](../../../HTML-CSS-Lecture-Basics) [HTML](../../../HTML-CSS-Lecture-Basics) | [![home](./pics/code_white.png)](../../..) [home](../../..)  | [![home](./pics/code_white.png)](../../..) [home](../../..)  |
-|:---:| :---:| :---:|
+|:---:|:---:|:---:|
 
 ## About...
 
