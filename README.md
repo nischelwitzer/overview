@@ -20,14 +20,14 @@
             <th colspan="3">OpenCV - Computer Vision</th>
         </tr>          
         <tr>
-            <td width=33%><img src="./pics/poseEstimation.png" width="100%"><br><a href="https://github.com/nischelwitzer/OCV-BodyPose-Tools">PoseEstimation</a></td>
-            <td width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></td>
-            <td width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></td>
+            <th width=33%><img src="./pics/poseEstimation.png" width="100%"><br><a href="https://github.com/nischelwitzer/OCV-BodyPose-Tools">PoseEstimation</a></th>
+            <th width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></th>
+            <th width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></th>
         </tr>
         <tr>
-            <td width=33%><img src="./pics/faceDetection.png" width="100%"><br><a href="../../../OCV-face68-Nose-Mouth-BB">Face NDC Nose</a></td>            
-            <td width=33%><img src="./pics/faceDetection.png" width="100%"><br><a href="../../../OCV-face68-FaceMask">FaceDetection BoundingBox</a></td>
-            <td width=33%><img src="./pics/faceDetection.png" width="100%"><br><a href="../../../OCV-face68-2DOF-Rotation">Face Rotation</a></td>
+            <th width=33%><img src="./pics/faceDetection.png" width="100%"><br><a href="../../../OCV-face68-Nose-Mouth-BB">Face NDC Nose</a></th>            
+            <th width=33%><img src="./pics/faceDetection.png" width="100%"><br><a href="../../../OCV-face68-FaceMask">FaceDetection BoundingBox</a></th>
+            <th width=33%><img src="./pics/faceDetection.png" width="100%"><br><a href="../../../OCV-face68-2DOF-Rotation">Face Rotation</a></th>
         </tr>       
         <tr>
             <th colspan="3">IOT and Electronics</th>
@@ -36,9 +36,9 @@
             <td width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></td>
             <td width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></td>
             <td width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></td>
-        </tr>r>
+        </tr>
         <tr>
-            <td colspan="3">Unity Goodies and Tools</td>
+            <th colspan="3">Unity Goodies and Tools</th>
         </tr>
         <tr>
             <td width=33%><img src="./pics//dotween.png" width="100%"><br><a href="../../../DoTweenShow">DoTween Animation</a></td>
@@ -46,7 +46,7 @@
             <td width=33%><img src="./pics/code.png" width="100%"><br><a href="../../../ClockButton">Clock Button</a></td>
         </tr>
         <tr>
-            <td colspan="3">HTML und Web</td>
+            <th colspan="3">HTML und Web</th>
         </tr>
         <tr>
             <td width=33%><img src="./pics/code.png" width="100%"><br><a href="../../../HTML-CSS-Lecture-Basics">HTML und CSS</a></td>
