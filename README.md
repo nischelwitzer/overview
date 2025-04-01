@@ -26,8 +26,8 @@
         </tr>
         <tr>
             <th width=33%><a href="../../../OCV-face68-Nose-Mouth-BB"><img src="./pics/faceDetection.png" width="100%"><br>Face NDC Nose</a></th>            
-            <th width=33%><a href="../../../OCV-face68-FaceMask">FaceDetection BoundingBox</a><img src="./pics/faceDetection.png" width="100%"><br></th>
-            <th width=33%><a href="../../../OCV-face68-2DOF-Rotation">Face Rotation</a><img src="./pics/faceDetection.png" width="100%"><br></th>
+            <th width=33%><a href="../../../OCV-face68-FaceMask"><img src="./pics/faceDetection.png" width="100%"><br>FaceDetection BoundingBox</a></th>
+            <th width=33%><a href="../../../OCV-face68-2DOF-Rotation"><img src="./pics/faceDetection.png" width="100%"><br>Face Rotation</a></th>
         </tr>       
         <tr>
             <th colspan="3"><br>IOT and Electronics<br><br></th>
