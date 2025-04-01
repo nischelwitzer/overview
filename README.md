@@ -38,9 +38,9 @@
             <th width=33%><a href="../../../ClockButton"><img src="./pics/code.png" width="100%"><br>Clock Button</a></th>
         </tr>
         <tr>
-            <th width=33%><a href="../../../Billboard_Modes"><img src="./pics//code.png" width="100%"><br>Billboard Image</a></th>
-            <th width=33%><a href="../../../Cannon_MoveShot"><img src="./pics/code.png" width="100%"><br>Shooting</a></th>
-            <th width=33%><a href="../../../MultiObjects_XYZ"><img src="./pics/code.png" width="100%"><br>A lot of Objects</a></th>
+            <th width=33%><a href="../../../Billboard_Modes"><img src="./pics/billboard.png" width="100%"><br>Billboard Image</a></th>
+            <th width=33%><a href="../../../Cannon_MoveShot"><img src="./pics/shot.png" width="100%"><br>Shooting</a></th>
+            <th width=33%><a href="../../../MultiObjects_XYZ"><img src="./pics/alotofobjects.png" width="100%"><br>A lot of Objects</a></th>
         </tr>
         <tr>
             <th width=33%><a href="../../../Unity-CSharp-Code-Snippets"><img src="./pics//code.png" width="100%"><br>Code Snippet Collection</a></th>
@@ -52,7 +52,7 @@
         </tr>            
         <tr>
             <th width=33%><a href="../../../IOT-Master"><img src="./pics/iot_master.png" width="100%"><br>IOT Master</a></th>
-            <th width=33%><a href="../../../Grove-NeoPixel-Multiboard"><img src="./pics/code.png" width="100%"><br>NeoPixel MultiBoard</a></th>
+            <th width=33%><a href="../../../Grove-NeoPixel-Multiboard"><img src="./pics/neopixel.png" width="100%"><br>NeoPixel MultiBoard</a></th>
             <th width=33%><a href="../../.."><img src="./pics/coming.png" width="100%"><br>-</a></th>
         </tr>      
         <tr>
