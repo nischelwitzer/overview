@@ -7,7 +7,7 @@
 
 ## Mixed Reality
 
-    <table width=100%>
+<table width=100%>
         <tr>
             <th><img src="./pics/xr_development.png" width="33%"><br><a href="https://github.com/nischelwitzer/MixedReality_DevUnity">MR/XR Development</a></th>
             <th><img src="./pics/code_white.png" width="33%"><br><a href="../../..">home</a></th>
@@ -26,7 +26,7 @@
         <tr>
             <td colspan="3">Zeile 3, verbundene Zelle</td>
         </tr>
-    </table>
+</table>
 
 |  [<img src="./pics/xr_development.png" width="350px"><br>](../../../MixedReality_DevUnity) [MR/XR Development](https://github.com/nischelwitzer/MixedReality_DevUnity) |  [<img src="./pics/code_white.png" width="350px"><br>](../../..) [home](../../..) |  [<img src="./pics/code_white.png" width="350px"><br>](../../..) [home](../../..) |
 |:---:|:---:|:---:|
