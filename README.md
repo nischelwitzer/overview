@@ -9,7 +9,7 @@
 
 <table width=100%>
         <tr>
-            <th colspan="3"><br>Mixed Reality Development<br></th>
+            <th colspan="3"><br>Mixed Reality Development<br><br></th>
         </tr>        
         <tr>
             <th width=33%><a href="https://github.com/nischelwitzer/MixedReality_DevUnity">
