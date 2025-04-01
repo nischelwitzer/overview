@@ -21,7 +21,8 @@
             <th colspan="3">OpenCV - Computer Vision</th>
         </tr>          
         <tr>
-            <th width=33%><img src="./pics/poseEstimation.png" width="100%"><br><a href="https://github.com/nischelwitzer/OCV-BodyPose-Tools">PoseEstimation</a></th>
+            <th width=33%><a href="https://github.com/nischelwitzer/OCV-BodyPose-Tools">
+                    <img src="./pics/poseEstimation.png" width="100%"><br>PoseEstimation</a></th>
             <th width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></th>
             <th width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></th>
         </tr>
@@ -34,9 +35,9 @@
             <th colspan="3">IOT and Electronics</th>
         </tr>            
         <tr>
-            <td width=33%><a href="../..IOT-Master"><img src="./pics/iot_master.png" width="100%"><br>IOT Master</a></td>
-            <td width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></td>
-            <td width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></td>
+            <th width=33%><a href="../../IOT-Master"><img src="./pics/iot_master.png" width="100%"><br>IOT Master</a></th>
+            <th width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></th>
+            <th width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></th>
         </tr>
         <tr>
             <th colspan="3">Unity Goodies and Tools</th>
