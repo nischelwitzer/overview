@@ -12,9 +12,9 @@
             <th colspan="3">Mixed Reality Development</th>
         </tr>        
         <tr>
-            <th><img src="./pics/xr_development.png" width="100%"><br><a href="https://github.com/nischelwitzer/MixedReality_DevUnity">MR/XR Development</a></th>
-            <th><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></th>
-            <th><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></th>
+            <th width=33%><img src="./pics/xr_development.png" width="100%"><br><a href="https://github.com/nischelwitzer/MixedReality_DevUnity">MR/XR Development</a></th>
+            <th width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></th>
+            <th width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></th>
         </tr>
         <tr>
             <th colspan="3">OpenCV - Computer Vision</th>
