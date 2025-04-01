@@ -9,27 +9,38 @@
 
 <table width=100%>
         <tr>
-            <th><img src="./pics/xr_development.png" width="33%"><br><a href="https://github.com/nischelwitzer/MixedReality_DevUnity">MR/XR Development</a></th>
-            <th><img src="./pics/code_white.png" width="33%"><br><a href="../../..">home</a></th>
-            <th><img src="./pics/code_white.png" width="33%"><br><a href="../../..">home</a></th>
+            <th colspan="3">Mixed Reality Development</th>
+        </tr>        
+        <tr>
+            <th><img src="./pics/xr_development.png" width="100%"><br><a href="https://github.com/nischelwitzer/MixedReality_DevUnity">MR/XR Development</a></th>
+            <th><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></th>
+            <th><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></th>
         </tr>
+        <tr>
+            <th colspan="3">OpenCV - Computer Vision</th>
+        </tr>          
         <tr>
             <td>Zeile 1, Spalte 1</td>
             <td>Zeile 1, Spalte 2</td>
             <td>Zeile 1, Spalte 3</td>
         </tr>
         <tr>
+            <th colspan="3">IOT and Electronics</th>
+        </tr>            
+        <tr>
             <td>Zeile 2, Spalte 1</td>
             <td>Zeile 2, Spalte 2</td>
             <td>Zeile 2, Spalte 3</td>
         </tr>
         <tr>
-            <td colspan="3">Zeile 3, verbundene Zelle</td>
+            <td colspan="3">Unity Goodies and Tools</td>
+        </tr>
+        <tr>
+            <td>Zeile 2, Spalte 1</td>
+            <td>Zeile 2, Spalte 2</td>
+            <td>Zeile 2, Spalte 3</td>
         </tr>
 </table>
-
-|  [<img src="./pics/xr_development.png" width="350px"><br>](../../../MixedReality_DevUnity) [MR/XR Development](https://github.com/nischelwitzer/MixedReality_DevUnity) |  [<img src="./pics/code_white.png" width="350px"><br>](../../..) [home](../../..) |  [<img src="./pics/code_white.png" width="350px"><br>](../../..) [home](../../..) |
-|:---:|:---:|:---:|
 
 ## Open ComputerVision
 
