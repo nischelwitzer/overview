@@ -1,11 +1,9 @@
-# Overview Git-Page for alle Repositories
+# Overview Git-Page to some of my Repositories
 
 > [!IMPORTANT]  
 > This is the overview Page to all other Repositories
 
 # Quick Link Page
-
-## Mixed Reality
 
 <table width=100%>
         <tr>
@@ -57,9 +55,10 @@
         </tr>
 </table>
 
-## About...
+## About me...
 
 * 📫 Contact: nischelwitzer@gmail.com 
 * 👥 Work: [FH JOANNEUM, Business Informatics](https://www.fh-joanneum.at/hochschule/person/alexander-nischelwitzer/)
-* 🙌 Main Focus: Unity Development, Electronics, Usability
-* 🎬 YouTube: [Channel](https://www.youtube.com/@AlexanderKNischelwitzer)
+* 🙌 Main Focus: Unity Development, Electronics, Usability, Multimedia, Mixed Reality
+* 🎬 [YouTube Channel](https://www.youtube.com/@AlexanderKNischelwitzer) with Tutorials
+* 👾 Visit my <a href="http://www.nischelwitzer.com" target="_blank">Homepage</a>
