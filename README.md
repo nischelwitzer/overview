@@ -35,7 +35,7 @@
         <tr>
             <th width=33%><a href="../../../DoTweenShow"><img src="./pics//dotween.png" width="100%"><br>DoTween Animation</a></th>
             <th width=33%><a href="../../../Calc_MeanMediand"><img src="./pics/mean_median.png" width="100%"><br>Mean Median</a></th>
-            <th width=33%><a href="../../../ClockButton"><img src="./pics/code.png" width="100%"><br>Clock Button</a></th>
+            <th width=33%><a href="../../../ClockButton"><img src="./pics/clockbutton.png" width="100%"><br>Clock Button</a></th>
         </tr>
         <tr>
             <th width=33%><a href="../../../Billboard_Modes"><img src="./pics/billboard.png" width="100%"><br>Billboard Image</a></th>
