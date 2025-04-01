@@ -52,7 +52,7 @@
         </tr>            
         <tr>
             <th width=33%><a href="../../../IOT-Master"><img src="./pics/iot_master.png" width="100%"><br>IOT Master</a></th>
-            <th width=33%><a href="../../../Grove-NeoPixel-Multiboard"><img src="./pics/coming.png" width="100%"><br>NeoPixel MultiBoard</a></th>
+            <th width=33%><a href="../../../Grove-NeoPixel-Multiboard"><img src="./pics/code.png" width="100%"><br>NeoPixel MultiBoard</a></th>
             <th width=33%><a href="../../.."><img src="./pics/coming.png" width="100%"><br>-</a></th>
         </tr>      
         <tr>
