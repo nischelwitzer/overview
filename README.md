@@ -35,7 +35,7 @@
             <th colspan="3">IOT and Electronics</th>
         </tr>            
         <tr>
-            <th width=33%><a href="../../IOT-Master"><img src="./pics/iot_master.png" width="100%"><br>IOT Master</a></th>
+            <th width=33%><a href="../../../IOT-Master"><img src="./pics/iot_master.png" width="100%"><br>IOT Master</a></th>
             <th width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></th>
             <th width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></th>
         </tr>
@@ -43,9 +43,9 @@
             <th colspan="3">Unity Goodies and Tools</th>
         </tr>
         <tr>
-            <td width=33%><img src="./pics//dotween.png" width="100%"><br><a href="../../../DoTweenShow">DoTween Animation</a></td>
-            <td width=33%><img src="./pics/mean_median.png" width="100%"><br><a href="../../../Calc_MeanMediand">Mean Median</a></td>
-            <td width=33%><img src="./pics/code.png" width="100%"><br><a href="../../../ClockButton">Clock Button</a></td>
+            <td width=33%><a href="../../../DoTweenShow"><img src="./pics//dotween.png" width="100%"><br>DoTween Animation</a></td>
+            <td width=33%><a href="../../../Calc_MeanMediand"><img src="./pics/mean_median.png" width="100%"><br>Mean Median</a></td>
+            <td width=33%><a href="../../../ClockButton"><img src="./pics/code.png" width="100%"><br>Clock Button</a></td>
         </tr>
         <tr>
             <th colspan="3">HTML und Web</th>
