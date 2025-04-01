@@ -12,9 +12,10 @@
             <th colspan="3">Mixed Reality Development</th>
         </tr>        
         <tr>
-            <th width=33%><img src="./pics/xr_development.png" width="100%"><br><a href="https://github.com/nischelwitzer/MixedReality_DevUnity">MR/XR Development</a></th>
-            <th width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></th>
-            <th width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></th>
+            <th width=33%><a href="https://github.com/nischelwitzer/MixedReality_DevUnity">
+              <img src="./pics/xr_development.png" width="100%"><br>MR/XR Development</a></th>
+            <th width=33%><a href="../../.."><img src="./pics/code_white.png" width="100%"><br>home</a></th>
+            <th width=33%><a href="../../.."><img src="./pics/code_white.png" width="100%"><br>home</a></th>
         </tr>
         <tr>
             <th colspan="3">OpenCV - Computer Vision</th>
@@ -33,7 +34,7 @@
             <th colspan="3">IOT and Electronics</th>
         </tr>            
         <tr>
-            <td width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></td>
+            <td width=33%><a href="../..IOT-Master"><img src="./pics/iot_master.png" width="100%"><br>IOT Master</a></td>
             <td width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></td>
             <td width=33%><img src="./pics/code_white.png" width="100%"><br><a href="../../..">home</a></td>
         </tr>
