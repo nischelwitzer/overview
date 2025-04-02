@@ -69,6 +69,10 @@
 
 * 📫 Contact: nischelwitzer@gmail.com 
 * 👥 Work: [FH JOANNEUM, Business Informatics](https://www.fh-joanneum.at/hochschule/person/alexander-nischelwitzer/)
+* 📍 FH JOANNEUM, ES30i.1S.R104 or online, Graz, Austria, EU
 * 🙌 Main Focus: Unity Development, Electronics, Usability, Multimedia, Mixed Reality
 * 🎬 [YouTube Channel](https://www.youtube.com/@AlexanderKNischelwitzer) with Tutorials
-* 👾 Visit my <a href="http://www.nischelwitzer.com" target="_blank">Homepage</a>
+* 👾 take a look at my <a href="http://www.nischelwitzer.com" target="_blank">private Homepage</a>
+* 👉 visit also <a href="https://www.thingiverse.com/nischi" target="_blank">Thingiverse 3D Printing</a> Projects
+* 📅 last update: 2025
+
