@@ -59,7 +59,7 @@
             <th colspan="3"><br>HTML und Web<br><br></th>
         </tr>
         <tr>
-            <th width=33%><img src="./pics/code.png" width="100%"><br><a href="../../../HTML-CSS-Lecture-Basics">HTML und CSS</a></th>
+            <th width=33%><a href="../../../HTML-CSS-Lecture-Basics"><img src="./pics/html_css.png" width="100%"><br>HTML und CSS</a></th>
             <th width=33%><a href="../../.."><img src="./pics/coming.png" width="100%"><br>-</a></th>
             <th width=33%><a href="../../.."><img src="./pics/coming.png" width="100%"><br>-</a></th>
         </tr>
