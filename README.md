@@ -12,7 +12,7 @@
         <tr>
             <th width=33%><a href="https://github.com/nischelwitzer/MixedReality_DevUnity">
               <img src="./pics/xr_development.png" width="100%"><br>MR/XR Development</a></th>
-            <th width=33%><a href="../../../mrLogger"><img src="./pics/mrLogger.png" width="100%"><br>MR Logger</a></th>
+            <th width=33%><a href="../../../mrLogger"><img src="./pics/mrLogger.png" width="100%"><br>MR Logger</a> & MQTT</th>
             <th width=33%><a href="../../.."><img src="./pics/coming.png" width="100%"><br>-</a></th>
         </tr>
         <tr>
