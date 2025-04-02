@@ -43,8 +43,8 @@
             <th width=33%><a href="../../../MultiObjects_XYZ"><img src="./pics/alotofobjects.png" width="100%"><br>A lot of Objects</a></th>
         </tr>
         <tr>
-            <th width=33%><a href="../../../Unity-CSharp-Code-Snippets"><img src="./pics//code.png" width="100%"><br>Code Snippet Collection</a></th>
-            <th width=33%><a href="../../.."><img src="./pics/coming.png" width="100%"><br>-</a></th>
+            <th width=33%><a href="../../../Unity-CSharp-Code-Snippets"><img src="./pics/code.png" width="100%"><br>Code Snippet Collection</a></th>
+            <th width=33%><a href="../../../applicationmanager"><img src="./pics/code" width="100%"><br>Application Manager</a></th>
             <th width=33%><a href="../../.."><img src="./pics/coming.png" width="100%"><br>-</a></th>
         </tr>
         <tr>
