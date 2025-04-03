@@ -13,7 +13,7 @@
             <th width=33%><a href="https://github.com/nischelwitzer/MixedReality_DevUnity">
               <img src="./pics/xr_development.png" width="100%"><br>MR/XR Development</a></th>
             <th width=33%><a href="../../../mrLogger"><img src="./pics/mrLogger.png" width="100%"><br>MR 3D Debug.Log</a> & MQTT</th>
-            <th width=33%><a href="../../../mrSpawn2label"><img src="./pics/spawner2label.png" width="100%"><br>-</a></th>
+            <th width=33%><a href="../../../mrSpawn2label"><img src="./pics/spawner2label.png" width="100%"><br>MRUK Spawner@Label</a></th>
         </tr>
         <tr>
             <th colspan="3"><br>OpenCV - Computer Vision with Unity and C#<br><br></th>
