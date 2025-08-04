@@ -49,8 +49,8 @@
         </tr>
         <tr>
             <th width=33%><a href="../../../Unity-CSharp-Code-Snippets"><img src="./pics/code.png" width="100%"><br>Code Snippet Collection</a></th>
-            <th width=33%><a href="../../../applicationmanager"><img src="./pics/code.png" width="100%"><br>Application Manager</a></th>
-            <th width=33%><a href="../../.."><img src="./pics/coming.png" width="100%"><br>-</a></th>
+            <th width=33%><a href="../../../applicationmanager"><img src="./pics/code.png" width="100%"><br>Application Manager & more</a></th>
+            <th width=33%><a href="../../../Unity_CSharp_Tools"><img src="./pics/coming.png" width="100%"><br>C# Tools & Tipps</a></th>
         </tr>
         <tr>
             <th colspan="3"><br>IoT and Electronics, Arduino, ESP, etc.<br><br></th>
