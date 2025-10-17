@@ -10,7 +10,7 @@
             <th colspan="3"><br>Unity Ball Lecture Tools<br><br></th>
         </tr>        
         <tr>
-            <th width=33%><a href="../../../Rube_Goldberg_Machine"><img src="./rgm_icon_ok.png" width="100%"><br>Rube Goldberg Machine</a></th>
+            <th width=33%><a href="../../../Rube_Goldberg_Machine"><img src="./pics/rgm_icon_ok.png" width="100%"><br>Rube Goldberg Machine</a></th>
             <th width=33%><a href="../../../Ball_Game"><img src="./pics/coming.png" width="100%"><br>Ball Game</a></th>
             <th width=33%><a href="../../../Unity_Helper_Tools"><img src="./pics/coming.png" width="100%"><br>Unity_Helper Tools</a></th>
         </tr> 
