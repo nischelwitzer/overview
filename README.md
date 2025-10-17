@@ -6,7 +6,6 @@
 # Quick Link Page
 
 <table width=100%>
-
         <tr>
             <th colspan="3"><br>Mixed Reality Development, Unity and Meta Quest3/3S<br><br></th>
         </tr>        
@@ -14,8 +13,7 @@
             <th width=33%><a href="../../../Rube_Goldberg_Machine"><img src="./pics/coming.png" width="100%"><br>Rube Goldberg Machine</a></th>
             <th width=33%><a href="../../../Ball_Game"><img src="./pics/coming.png" width="100%"><br>Ball Game</a></th>
             <th width=33%><a href="../../../Unity_Helper_Tools"><img src="./pics/coming.png" width="100%"><br>Unity_Helper Tools</a></th>
-        </tr>  
-        
+        </tr> 
         <tr>
             <th colspan="3"><br>Mixed Reality Development, Unity and Meta Quest3/3S<br><br></th>
         </tr>        
