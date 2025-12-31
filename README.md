@@ -34,7 +34,7 @@
         <tr>
             <th width=33%><a href="https://github.com/nischelwitzer/OCV-BodyPose-Tools">
                     <img src="./pics/poseEstimation.png" width="100%"><br>PoseEstimation</a></th>
-            <th width=33%><a href="../../.."><img src="./pics/coming.png" width="100%"><br>-</a></th>
+            <th width=33%><a href="../../../ocv-face68"><img src="./pics/eyecatcher_face68.png" width="100%"><br>Face68 Detection</a></th>
             <th width=33%><a href="../../.."><img src="./pics/coming.png" width="100%"><br>-</a></th>
         </tr>
         <tr>
